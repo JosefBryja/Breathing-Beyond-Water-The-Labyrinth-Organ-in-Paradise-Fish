@@ -22,6 +22,7 @@ adaptation: the labyrinth organ. This specialized structure, derived from
 the first gill-bearing arch, allows for aerial breathing.
 
 ![Image](https://github.com/user-attachments/assets/15866371-ed44-4a95-8ba6-3f404dab6267)
+<img scr="https://github.com/user-attachments/assets/15866371-ed44-4a95-8ba6-3f404dab6267" width="310">
 
 Gas exchange, along with predation, appears to be one of the driving
 forces of vertebrate evolution. This evolutionary pressure has led to the
