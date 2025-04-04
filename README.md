@@ -10,7 +10,7 @@ Josef Bryja<sup>1</sup>, Nora Szabo<sup>2</sup>, Petra Čermáková<sup>1</sup>,
 (4) Central European Institute of Technology (CEITEC), Computed Tomography Laboratory, Brno, Czech Republic
 
 
-[Pfish.pdf](https://github.com/user-attachments/files/19599616/Pfish.pdf)
+![Image](https://github.com/user-attachments/assets/9434a1cc-5f2a-4278-b7e3-1a774c3a0f14)
 
 
 ## The Adaptability of Pharyngeal Arches: Labyrinth Organ
@@ -21,7 +21,7 @@ structures. While gills are a common example, the paradise fish
 adaptation: the labyrinth organ. This specialized structure, derived from
 the first gill-bearing arch, allows for aerial breathing.
 
-[lo.pdf](https://github.com/user-attachments/files/19599645/lo.pdf)
+![Image](https://github.com/user-attachments/assets/15866371-ed44-4a95-8ba6-3f404dab6267)
 
 Gas exchange, along with predation, appears to be one of the driving
 forces of vertebrate evolution. This evolutionary pressure has led to the
@@ -30,13 +30,14 @@ These include “valve cells” and pillar cells, which are thought to be
 essential for proper endothelial function, as well as a specialized
 respiratory epithelium.
 
-[Cells.pdf](https://github.com/user-attachments/files/19599688/Cells.pdf)
+<img width="310" alt="Image" src="https://github.com/user-attachments/assets/6679dd23-06e6-488b-b337-c22a1c0ee894" />
+
 
 ## MicroCT Analysis Shows Post-Metamorphosis Development of Labyrinth Organ
 - Labyrinth organ is unique in its development after metamorphosis
 - MicroCT measurements show the dynamics of these changes
 
-[lo_development.pdf](https://github.com/user-attachments/files/19599493/lo_development.pdf)
+![Image](https://github.com/user-attachments/assets/504fba1d-4aaa-4df0-8727-434479079f5b)
 
 **Conclusion:** Labyrinth organ forms after metamorphosis.
 
@@ -53,11 +54,11 @@ respiratory epithelium.
 ## Labyrinth Organ Mesenchyme Has Distinctive Transcriptional Profile
 - Single-cell RNA sequencing revealed that labyrinth organ contains highly specific mesenchymal structures with a specific transcription profile
 
-[scRNAseq_2.pdf](https://github.com/user-attachments/files/19599582/scRNAseq_2.pdf)
+![Image](https://github.com/user-attachments/assets/f2d63386-3628-4f14-bfda-d145fe509225)
 
 - Labyrinth organ exhibits specific expression of specific tissue organization genes such as *notch* genes or *wnt5a*
 
-[dotplot.pdf](https://github.com/user-attachments/files/19599577/dotplot.pdf)
+![Image](https://github.com/user-attachments/assets/5ded191d-d02e-460c-820d-c3c3574f3492)
 
 **Conclusion:** Transcriptionally distinct mesenchyme in labyrinth organ exhibits expression of tissue remodeling genes
 
@@ -67,7 +68,7 @@ respiratory epithelium.
 - We implemented the SAMap algorithm to compare labyrinth organ to other respiratory adaptations – lungs from lungfish
 - Labyrinth organ mesenchyme maps mostly to lungs alveolar cells
 
-[SAMap_full.pdf](https://github.com/user-attachments/files/19599673/SAMap_full.pdf)
+![Image](https://github.com/user-attachments/assets/5c8937de-d51a-4614-afc6-d088cfc2e8cf)
 
 **Conclusion:** Labyrinth organ mesenchyme may have a similar evolutionary origin as other respiratory organs, while having unique phenotype
 
