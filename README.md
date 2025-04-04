@@ -61,13 +61,13 @@ respiratory epithelium.
 - Single-cell RNA sequencing revealed that labyrinth organ contains highly specific mesenchymal structures with a specific transcription profile
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1f44bd0c-518c-4e88-947a-b6c481cdab51" width="400" />
+  <img src="https://github.com/user-attachments/assets/1f44bd0c-518c-4e88-947a-b6c481cdab51" width="600" />
 </div>
 
 - Labyrinth organ exhibits specific expression of specific tissue organization genes such as *notch* genes or *wnt5a*
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/30c277cf-5ec2-4555-9896-1f3f01a5e065" width="400" />
+  <img src="https://github.com/user-attachments/assets/30c277cf-5ec2-4555-9896-1f3f01a5e065" width="600" />
 </div>
 
 **Conclusion:** Transcriptionally distinct mesenchyme in labyrinth organ exhibits expression of tissue remodeling genes
