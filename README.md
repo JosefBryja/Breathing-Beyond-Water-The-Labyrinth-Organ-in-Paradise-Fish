@@ -41,7 +41,9 @@ respiratory epithelium.
 - Labyrinth organ is unique in its development after metamorphosis
 - MicroCT measurements show the dynamics of these changes
 
-![Image](https://github.com/user-attachments/assets/504fba1d-4aaa-4df0-8727-434479079f5b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f0c35cae-e310-466c-b60e-19822fa5eab9" width="100" />
+</div>
 
 **Conclusion:** Labyrinth organ forms after metamorphosis.
 
@@ -72,7 +74,9 @@ respiratory epithelium.
 - We implemented the SAMap algorithm to compare labyrinth organ to other respiratory adaptations – lungs from lungfish
 - Labyrinth organ mesenchyme maps mostly to lungs alveolar cells
 
-![Image](https://github.com/user-attachments/assets/5c8937de-d51a-4614-afc6-d088cfc2e8cf)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1c97aa83-af5c-4ddd-a3bf-e1bae06851db" width="50" />
+</div>
 
 **Conclusion:** Labyrinth organ mesenchyme may have a similar evolutionary origin as other respiratory organs, while having unique phenotype
 
