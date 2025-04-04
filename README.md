@@ -42,7 +42,7 @@ respiratory epithelium.
 - MicroCT measurements show the dynamics of these changes
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f0c35cae-e310-466c-b60e-19822fa5eab9" width="100" />
+  <img src="https://github.com/user-attachments/assets/f0c35cae-e310-466c-b60e-19822fa5eab9" width="500" />
 </div>
 
 **Conclusion:** Labyrinth organ forms after metamorphosis.
@@ -75,7 +75,7 @@ respiratory epithelium.
 - Labyrinth organ mesenchyme maps mostly to lungs alveolar cells
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c97aa83-af5c-4ddd-a3bf-e1bae06851db" width="50" />
+  <img src="https://github.com/user-attachments/assets/1c97aa83-af5c-4ddd-a3bf-e1bae06851db" width="400" />
 </div>
 
 **Conclusion:** Labyrinth organ mesenchyme may have a similar evolutionary origin as other respiratory organs, while having unique phenotype
