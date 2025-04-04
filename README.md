@@ -22,7 +22,7 @@ adaptation: the labyrinth organ. This specialized structure, derived from
 the first gill-bearing arch, allows for aerial breathing.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/eff2cce5-b4eb-44fc-8fae-d3286ff92699" width="400" />
+    <img src="https://github.com/user-attachments/assets/eff2cce5-b4eb-44fc-8fae-d3286ff92699" width="400" />
 </div>
 
 Gas exchange, along with predation, appears to be one of the driving
@@ -32,8 +32,9 @@ These include “valve cells” and pillar cells, which are thought to be
 essential for proper endothelial function, as well as a specialized
 respiratory epithelium.
 
-<img width="310" alt="Image" src="https://github.com/user-attachments/assets/6679dd23-06e6-488b-b337-c22a1c0ee894" />
-
+<div align="center">
+    <img width="310" alt="Image" src="https://github.com/user-attachments/assets/6679dd23-06e6-488b-b337-c22a1c0ee894" />
+</div>
 
 
 ## MicroCT Analysis Shows Post-Metamorphosis Development of Labyrinth Organ
