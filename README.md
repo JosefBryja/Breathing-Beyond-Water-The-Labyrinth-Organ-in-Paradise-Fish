@@ -42,7 +42,7 @@ respiratory epithelium.
 - MicroCT measurements show the dynamics of these changes
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f0c35cae-e310-466c-b60e-19822fa5eab9" width="500" />
+  <img src="https://github.com/user-attachments/assets/f0c35cae-e310-466c-b60e-19822fa5eab9" width="600" />
 </div>
 
 **Conclusion:** Labyrinth organ forms after metamorphosis.
@@ -60,11 +60,15 @@ respiratory epithelium.
 ## Labyrinth Organ Mesenchyme Has Distinctive Transcriptional Profile
 - Single-cell RNA sequencing revealed that labyrinth organ contains highly specific mesenchymal structures with a specific transcription profile
 
-![Image](https://github.com/user-attachments/assets/f2d63386-3628-4f14-bfda-d145fe509225)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1f44bd0c-518c-4e88-947a-b6c481cdab51" width="400" />
+</div>
 
 - Labyrinth organ exhibits specific expression of specific tissue organization genes such as *notch* genes or *wnt5a*
 
-![Image](https://github.com/user-attachments/assets/5ded191d-d02e-460c-820d-c3c3574f3492)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/30c277cf-5ec2-4555-9896-1f3f01a5e065" width="400" />
+</div>
 
 **Conclusion:** Transcriptionally distinct mesenchyme in labyrinth organ exhibits expression of tissue remodeling genes
 
@@ -75,7 +79,7 @@ respiratory epithelium.
 - Labyrinth organ mesenchyme maps mostly to lungs alveolar cells
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c97aa83-af5c-4ddd-a3bf-e1bae06851db" width="400" />
+  <img src="https://github.com/user-attachments/assets/1c97aa83-af5c-4ddd-a3bf-e1bae06851db" width="350" />
 </div>
 
 **Conclusion:** Labyrinth organ mesenchyme may have a similar evolutionary origin as other respiratory organs, while having unique phenotype
